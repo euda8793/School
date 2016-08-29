@@ -1,0 +1,54 @@
+Computer Security
+
+++++++++++++++++++
+
+1.) Confidentiality    : if broken can cause system to be leaky
+
+
+
+		Eve (passive attacker, no interference)	
+		|
+Alice ------------------------ Bob
+
+		Mitt (active attacker, interference)
+
+2.) Integrity - {authenticity                -in most cases, integrity is more important than confidentiality
+		{accountability : if broken can cause a corrupt system
+
+
+3.) Availability : if broken system will become unavailable
+
+
+
+
+
+can each be defined as *low * moderate *high
+
+
+
+
+Attacks
+-------
+
+Passive:
+
+1.) Traffic Analysis
+
+2.) Release of Message
+
+----------
+
+Active:
+
+1.) Replay Attack
+
+2.) Message Modification Attack
+
+3.) Repudiation Attack
+
+4.) Masquerade Attack
+
+5.) DDoS
+
+6.) Man in the Middle Attack
+

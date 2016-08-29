@@ -1,0 +1,33 @@
+Waterfall
+
+=================
+
+-Summary: No going back
+
+
+-5 sequential Phases, each separated by a Stop-Gate
+	
+	-Reqs
+	-Design
+	-Implementation
+	-Verification
+	-Maintenance (Not a phase, just where it ends up)
+
+Expectations
+
+++++++++++++++++
+
+-Number of Projects
+	
+	-Numerous
+
+-Size of Teams
+
+	-Large
+
+-Number of roles each individual plays
+	
+	-One
+
+-Have to go through stop-gates to continue through phases
+

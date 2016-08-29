@@ -1,0 +1,80 @@
+On test it will be stage-gate
+
+Requirements:
+
+	Complete a set of functional requirements, then do it again, not just one big set.
+
+Waterfall consists of multiple projects
+
+Roles in Reqs:
+
+	Subject Matter Experts
+
+	Business Users
+
+	Business Analysts
+
+	Quality Assurance (QA)
+
+Outputs:
+
+	Functional Specs
+		
+		"System shall.."
+
+		Functional reqs is a document based on the specs
+
+		Document Actors and Basic Flow
+
+Test-Cases:
+
+	Title/Description
+
+	Preconditions & Assumptions
+
+	Test Steps
+		
+		Must start high level and add detail later
+
+	Expected Results
+
+		General description, more info added later
+
+Example:
+
+Sarah Tech needs a program that will produce random numbers
+
+-Functional Reqs
+	
+	Actor - Employee
+
+	Basic Flow - Employee will run program and a random number between 1 and 1 million will be
+	populated in their system clipboard. This number will be sufficiently random to produce different
+	numbers in 75 out of 100 cases. This is the main success scenario.
+
+-Test Cases
+
+	Precond & Assump - Must be logged into system with user that has access to run software.
+
+	Test Steps - 
+
+
+
+Group Submission (1 Per Group)
+
+-Your Functional Specs (Word doc)
+
+	Title
+	Actor(s)
+	Basic Flow
+	Link to Trello Card
+
+-Your Test Case Suite
+
+	Preconditions & 
+
+	Expected Results - 
+
+
+
+

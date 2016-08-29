@@ -1,0 +1,72 @@
+Review from Monday:
+
+
+C. I. A.
+
+
+Defending against attacks:
+
+-Cryptography
+
+	-Encryption
+	-Digital Signature
+
+-Law
+
+-Physical Security, backup, logging
+
+
++++++++++++++++
+
+First Presentation:
+	
+	-Cold-Boot Attack
+-Side Channel Attack
+
+
+
+========================
+
+Chapter 2. 
+
+=======================
+
+Symmetric Cipher
+                   Eve
+		    |
+
+		    |
+Alice-----------------------------------Bob
+
+		
+plaintext ---> Hello
+		|
+		|
+		|
+	key--encryption					Plain Text
+		|                                            |
+		|                                    key--Decrypt
+		|                                            |
+Ciphertest----->X+S$ ----------------------------------->Ciphertext
+
+1.) Caesar Cipher                A B C D ........................Z
+				-----------------------------------
+				 P Q R S T U V W ................O
+
+
+plaintext ---> ROMAN
+
+Ciphertext ----> GDBPC
+
+key = 15
+
+Con: small key space
+
+Pro: Convert message to number and use math
+
+
+
+
+{Cryptographer
+{Cryptoanalysis
+
