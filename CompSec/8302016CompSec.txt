@@ -1,0 +1,15 @@
+Symmetric Key Cipher
+
+
+*Caesar Cipher
+	*key space is small
+	#: Math: modular arithmetic
+
+*Substitution Cipher: random
+	#26! key = (26/e)^26
+
+*Block Cipher
+
+	Example: playfair cipher
+	
+	Key: TEXAS
